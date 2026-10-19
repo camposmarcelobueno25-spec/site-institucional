@@ -1,0 +1,5 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;color:#1f2937;line-height:1.65;background:#f9fafb}
+header{background:#111827;color:#fff;padding:18px 20px}header div,main,footer div{max-width:820px;margin:0 auto}
+header strong{font-size:1.15rem}nav{margin-top:8px}nav a{color:#d1d5db;margin-right:16px;text-decoration:none;font-size:.95rem}nav a:hover{color:#fff}
+main{padding:32px 20px}section{margin-bottom:36px}h1{font-size:1.8rem;margin:0 0 8px}h2{font-size:1.25rem;margin:0 0 8px}
+footer{background:#111827;color:#9ca3af;padding:24px 20px;font-size:.9rem}footer a{color:#d1d5db}
